@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "usb",
             description: "Our premium USB-C cable supports 10Gbps data transfer and 100W power delivery. Features durable braided nylon exterior and gold-plated connectors for maximum conductivity.",
             price: 7824.69,
-            image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            image: "img/img1.jpeg",
             features: [
                 "10Gbps data transfer speed",
                 "100W power delivery",
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "hdmi",
             description: "Certified HDMI 2.1 cable supporting 8K@60Hz and 4K@120Hz with dynamic HDR. Perfect for next-gen gaming consoles and home theater systems.",
             price: 139.59,
-            image: "https://images.unsplash.com/photo-1540932239986-30128078f3c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            image: "img/img2.jpeg",
             features: [
                 "8K@60Hz / 4K@120Hz",
                 "48Gbps bandwidth",
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "network",
             description: "Shielded Cat8 cable with 40Gbps speed and 2000MHz bandwidth. Ideal for data centers, gaming, and 4K streaming.",
             price: 49999.49,
-            image: "https://images.unsplash.com/photo-1604433712189-05d3d926d2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            image: "img/img3.jpeg",
             features: [
                 "40Gbps speed",
                 "2000MHz bandwidth",
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "audio",
             description: "High-fidelity audio cable with gold-plated connectors for superior sound quality. Oxygen-free copper conductors minimize signal loss.",
             price: 19050.89,
-            image: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=932&q=80",
+            image: "img/img4.jpeg",
             features: [
                 "Gold-plated connectors",
                 "Oxygen-free copper",
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "usb",
             description: "Apple MFi certified USB-C to Lightning cable for fast charging and data transfer. Reinforced connectors for extended durability.",
             price: 20050.01,
-            image: "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80",
+            image: "img/img5.jpeg",
             features: [
                 "MFi certified",
                 "Fast charging",
@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "audio",
             description: "Premium digital optical audio cable with precision polished connectors for crystal clear audio transmission without interference.",
             price: 20750.19,
-            image: "https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            image: "img/img1.jpeg",
             features: [
                 "Toslink compatible",
                 "Precision polished connectors",
@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "usb",
             description: "Compact USB-C to HDMI adapter supporting 4K@60Hz video output. Perfect for laptops, tablets, and smartphones with USB-C ports.",
             price: 34050.99,
-            image: "https://images.unsplash.com/photo-1591488320449-011701bb6704?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            image: "img/img2.jpeg",
             features: [
                 "4K@60Hz output",
                 "Plug-and-play",
@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "hdmi",
             description: "High-performance DisplayPort 1.4 cable certified for 8K resolution and HDR. Ideal for gaming and professional video editing.",
             price: 44000.99,
-            image: "https://images.unsplash.com/photo-1604433712189-05d3d926d2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+            image: "img/img3.jpeg",
             features: [
                 "8K@60Hz support",
                 "DisplayPort 1.4",
